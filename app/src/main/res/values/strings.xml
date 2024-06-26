@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="submit">Sumbit</string>
+    <string name="enter_item_to_add">Enter Coding Languages to Add in list</string>
+</resources>
